@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11818" started-at="2018-10-10T17:43:56Z" finished-at="2018-10-10T17:44:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11818" started-at="2018-10-10T17:43:56Z" finished-at="2018-10-10T17:44:08Z">
+      <class name="Hello.Test1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Hello.Test1@1e127982]" name="setup" is-config="true" duration-ms="9956" started-at="2018-10-10T23:13:46Z" finished-at="2018-10-10T23:13:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tesiong()[pri:0, instance:Hello.Test1@1e127982]" name="tesiong" duration-ms="11776" started-at="2018-10-10T23:13:56Z" finished-at="2018-10-10T23:14:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesiong -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Hello.Test1@1e127982]" name="teardown" is-config="true" duration-ms="5002" started-at="2018-10-10T23:14:08Z" finished-at="2018-10-10T23:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Hello.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
